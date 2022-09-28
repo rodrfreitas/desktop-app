@@ -1,3 +1,5 @@
+![The image is in another castle](banner.jpg "James Webb Nebula Image")
+
 # Github Desktop App Hello World - README TEMPLATE IDP
 
 TODO: Write a project description... please?
